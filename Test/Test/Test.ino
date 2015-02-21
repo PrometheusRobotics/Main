@@ -1,4 +1,4 @@
-Mega Linnux Weiners
+Mega Linux Weiners
 Weiners
 
 void setup() {
